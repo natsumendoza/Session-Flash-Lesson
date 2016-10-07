@@ -1,0 +1,16 @@
+.Alert {
+    padding: 10px
+}
+
+.Alert--Info {
+    background-color: #e3e3e3; 
+}
+
+.Alert--Success {
+    background: #8ac48a;
+}
+
+.Alert--Error {
+    background: red;
+    color: white;
+}
